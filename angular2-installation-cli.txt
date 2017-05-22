@@ -1,0 +1,34 @@
+1.install nodejs
+
+https://nodejs.org/en/download/
+
+
+2.check node version
+
+node --version
+
+3.npm install
+
+
+npm install npm 
+npm --version
+
+4.git install
+
+https://git-scm.com/download/win
+
+git --version
+incase version did't show commentprompt add enviornment variable
+
+5.cli install
+
+npm install -g @angular/cli
+
+ng --version
+
+6.create new angular project
+
+ng new project name(angular2)
+
+
+7.ng serve

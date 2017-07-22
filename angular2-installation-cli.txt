@@ -1,3 +1,9 @@
+REFERENCE:
+
+https://github.com/angular/angular-cli
+
+
+
 1.install nodejs
 
 https://nodejs.org/en/download/

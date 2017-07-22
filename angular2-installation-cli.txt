@@ -2,6 +2,10 @@ REFERENCE:
 
 https://github.com/angular/angular-cli
 
+If uninstalled the old version
+
+npm uninstall -g angular-cli @angular/cli
+npm cache clean
 
 
 1.install nodejs
@@ -29,6 +33,7 @@ incase version did't show commentprompt add enviornment variable
 5.cli install
 
 npm install -g @angular/cli
+npm install -g @angular/cli@latest
 
 ng --version
 
